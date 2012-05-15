@@ -13,3 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#ignore the bundler_stubs for local development
+/bundler_stubs
