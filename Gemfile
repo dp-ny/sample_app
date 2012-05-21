@@ -47,6 +47,8 @@ group :test do
 	# spork requirements
 	gem 'guard-spork', '0.3.2'
 	gem 'spork', '0.9.0'
+
+	gem 'factory_girl_rails', '1.4.0'
 end
 
 group :production do
@@ -63,3 +65,4 @@ end
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
